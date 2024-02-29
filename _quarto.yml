@@ -1,0 +1,82 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Governance Structure"
+  site-url: "https://rwscollab.github.io/pam-data-mgmt/"
+  repo-url: https://github.com/RWSCollab/pam-data-mgmt
+  back-to-top-navigation: true
+
+  navbar:
+    background: light
+    logo: "/images/RWSC_Logo_notext.png"
+
+  sidebar:
+    style: "docked"
+    search: true
+    title: RWSC Governance Structure
+    logo: "/images/logo7.png"
+    pinned: true
+    align: "center"
+    collapse-level: 2
+    contents:
+     - href: index.qmd#welcome
+       text: Welcome
+
+     - href: index.qmd#history
+       text: History & Background
+
+     - text: "---"
+
+     - section: Organizational Components
+       href: index.qmd#org
+       contents:
+         - href: index.qmd#framework
+           text: 1. Framework for Collaboration
+         - href: index.qmd#steering
+           text: 2. Steering Committee Charter
+         - section: 3. Sector Caucuses
+           href: index.qmd#sectors
+           contents:
+             - href: index.qmd#industry
+               text: Offshore Wind Industry Caucus Framework
+             - href: index.qmd#state
+               text: State Caucus Framework
+             - href: index.qmd#federal
+               text: Federal Caucus Framework
+             - href: index.qmd#engo
+               text: eNGO Caucus Framework
+         - href: index.qmd#subcommittees
+           text: 4. Subcommittees
+         - href: index.qmd#staff
+           text: 5. Director, Other Staff, and Partners
+         - href: index.qmd#ops
+           text: 6. RWSC Operations Hosts and Fiscal Agent
+         - href: index.qmd#research
+           text: 7. RWSC Offshore Wind and Wildlife Research Fund Fiscal Agent
+
+  page-footer:
+    left: "&copy; CC-By-NC-ND RWSC Steering Committee, 2024"
+    right: <img src="/images/RWSC_Logo.png" width="125">
+
+  favicon: "/images/logo7.png"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - rwsc.scss
+    code-link: true
+    toc-title: "On this page"
+    author-meta: "Regional Wildlife Science Collaborative for Offshore Wind"
+    callout-appearance: simple
+    link-external-newwindow: true
+
+editor: visual
+
+filters:
+  - include-files.lua
+  - quarto
+
+
