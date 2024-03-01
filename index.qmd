@@ -45,6 +45,8 @@ learned and makes available the science and data management
 recommendations that are pertinent to other U.S. regions (e.g., the west
 coast, Gulf of Mexico).
 
+![](images/subregions.png)
+
 #### Wildlife Definition  {.unnumbered}
 
 “Wildlife” includes marine mammals, sea turtles, protected fish species
@@ -498,34 +500,24 @@ frequently as needed.  
 |                                  | with US Atlantic coast           |
 |                                  | interests\*                      |
 +----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
 | **Caucus Voting:**               | Open to Caucus Members           |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
 +----------------------------------+----------------------------------+
 | **Caucus Leadership - Steering   | Open to Caucus Members           |
 | Committee Eligibility:**         |                                  |
-+----------------------------------+----------------------------------+
-|                                  |                                  |
 +----------------------------------+----------------------------------+
 | **Financial Contribution         | Contributions come from each     |
 | Structure (operations budget     | individual entity represented in |
 | only):**                         | the caucus, regardless of type   |
 |                                  | of affiliation                   |
 +----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
 | **Minimum number of              | 11 (at \$20k per entity)         |
 | contributions necessary to fund  |                                  |
 | FY2022 operational budget**      | 9 (at \$25k per entity)          |
 +----------------------------------+----------------------------------+
-|                                  |                                  |
-+----------------------------------+----------------------------------+
 
 \**Entities have US Atlantic offshore wind lease interests, the intent
 to obtain a US Atlantic offshore wind lease interest(s)/eligible
-bidders, as well as US Atlantic entities without a lease interest.* 
+bidders, as well as US Atlantic entities without a lease interest.*
 
 ***Offshore Wind Industry Caucus Membership***
 
