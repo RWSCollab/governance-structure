@@ -22,7 +22,7 @@ re-adopted annually by the Steering Committee.
 
 ------------------------------------------------------------------------
 
-### Mission  {.unnumbered}
+### Mission {.unnumbered}
 
 To collaboratively and effectively conduct and coordinate relevant,
 credible, and efficient regional monitoring and research of wildlife and
@@ -36,7 +36,7 @@ and increase data sharing and transparency.
 
 ### Scope {.unnumbered}
 
-#### Geographic Area  {.unnumbered}
+#### Geographic Area {.unnumbered}
 
 The geographic scope includes waters along the Northeast and Southeast
 U.S. Continental Shelf in the areas where offshore wind development is
@@ -47,7 +47,7 @@ coast, Gulf of Mexico).
 
 ![](images/subregions.png)
 
-#### Wildlife Definition  {.unnumbered}
+#### Wildlife Definition {.unnumbered}
 
 “Wildlife” includes marine mammals, sea turtles, protected fish species
 and corals, birds, and bats. Additionally, for the purposes of RWSC,
@@ -55,7 +55,7 @@ wildlife are part of a complex ecosystem of various trophic levels
 including all fisheries resources and benthic organisms, and
 oceanographic drivers upon which the aforementioned species depend.
 
-#### Scope of Inquiries  {.unnumbered}
+#### Scope of Inquiries {.unnumbered}
 
 The primary subject matter scope will initially include wildlife and
 habitats (e.g., marine mammals, sea turtles and birds, bats, protected
@@ -69,7 +69,7 @@ fisheries and other topics of commercial interest.
 Collaboration 🐋 Accountability 🐧 Credibility 🐢 Accessibility 🦇
 Communication 🐙 Transparency Relevance 🌊 Quality 🦀 Efficiency
 
-## History & Background  {#history}
+## History & Background {#history}
 
 The RWSC was formed in July 2021 following several years of planning,
 facilitated discussions, and working sessions that included
@@ -158,9 +158,8 @@ and shown in the RWSC org chart.
     Terms of Reference. RWSC staff also maintain a specific Terms
     document for each Subcommittee (referenced within).
 
-```{=html}
 <!-- -->
-```
+
 5.  [Director, Other Staff, and Partners](index.qmd#staff) **–** Staff
     employed by RWSC with appropriate skills and competencies. The
     Director conducts day-to-day management of RWSC including planning
@@ -496,23 +495,23 @@ The Caucus will reevaluate this model at least annually and more
 frequently as needed.  
 
 +----------------------------------+----------------------------------+
-| **Caucus Membership:**           | Open to offshore wind industry   |
+| **Caucus Membership:**           | Open to offshore wind industry   |
 |                                  | with US Atlantic coast           |
-|                                  | interests\*                      |
+|                                  | interests\*                      |
 +----------------------------------+----------------------------------+
-| **Caucus Voting:**               | Open to Caucus Members           |
+| **Caucus Voting:**               | Open to Caucus Members           |
 +----------------------------------+----------------------------------+
-| **Caucus Leadership - Steering   | Open to Caucus Members           |
-| Committee Eligibility:**         |                                  |
+| **Caucus Leadership - Steering   | Open to Caucus Members           |
+| Committee Eligibility:**         |                                  |
 +----------------------------------+----------------------------------+
 | **Financial Contribution         | Contributions come from each     |
 | Structure (operations budget     | individual entity represented in |
-| only):**                         | the caucus, regardless of type   |
-|                                  | of affiliation                   |
+| only):**                         | the caucus, regardless of type   |
+|                                  | of affiliation                   |
 +----------------------------------+----------------------------------+
-| **Minimum number of              | 11 (at \$20k per entity)         |
+| **Minimum number of              | 11 (at \$20k per entity)         |
 | contributions necessary to fund  |                                  |
-| FY2022 operational budget**      | 9 (at \$25k per entity)          |
+| FY2022 operational budget**      | 9 (at \$25k per entity)          |
 +----------------------------------+----------------------------------+
 
 \**Entities have US Atlantic offshore wind lease interests, the intent
@@ -1039,7 +1038,7 @@ selection processes. The Steering Committee has developed a Conflict of
 Interest policy which will apply to all Subcommittees to address this
 issue.
 
-## 5. Director, Other Staff, and Partners  {#staff}
+## 5. Director, Other Staff, and Partners {#staff}
 
 ***What***. The Director plays a leadership role and has both scientific
 and strong relationship and project management skills. The Director will
@@ -1106,7 +1105,7 @@ those of the RWSC and/or complementary expertise, and who: 
 
 -   May provide staff via contractual or other means
 
-## 6. RWSC Operations Hosts and Fiscal Agent  {#ops}
+## 6. RWSC Operations Hosts and Fiscal Agent {#ops}
 
 The Hosts and Fiscal Agent provide the core administrative and financial
 functions of RWSC. In April 2021, the Interim Steering Committee
@@ -1140,7 +1139,7 @@ funds received. This includes:
 
 -   Procure and contract for research as needed
 
-## 7. RWSC Offshore Wind and Wildlife Research Fund Fiscal Agent  {#research}
+## 7. RWSC Offshore Wind and Wildlife Research Fund Fiscal Agent {#research}
 
 A Research Fund Fiscal Agent provides the administrative and financial
 functions of the Research Fund, including developing and executing
