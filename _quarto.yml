@@ -16,10 +16,9 @@ website:
   sidebar:
     style: "docked"
     search: true
-    title: RWSC Governance Structure
     logo: "/images/logo7.png"
-#    pinned: true
-#    align: "center"
+    pinned: true
+    align: "center"
     collapse-level: 2
     contents:
      - href: index.qmd#welcome
