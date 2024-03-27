@@ -184,7 +184,8 @@ and shown in the RWSC org chart.
     (e.g. aggregating funding for research, developing and managing
     subcontracts with research entities).
 
-8.  Conflict of Interest Policy
+8.  [Conflict of Interest
+    Policy](https://rwscollab.github.io/coi-policy/)
 
 9.  Harassment Policy
 
@@ -416,8 +417,9 @@ in periodic or occasional RWSC activities or events. If members
 participate in scoping and conceptual approaches to research, they could
 be precluded from bidding on work or precluded in playing a role in
 final procurements and selection processes. The Steering Committee has
-developed a Conflict of Interest policy applicable to all members to
-address this issue.
+developed a [Conflict of Interest
+Policy](https://rwscollab.github.io/coi-policy/) applicable to all
+members to address this issue.
 
 ***Number*****.** The number of caucus members may vary by sector,
 however, should be manageable enough to facilitate efficient yet
@@ -473,13 +475,13 @@ with other Caucuses throughout in 2024. 
 
 ***Conflict of Interest***
 
-The RWSC Steering Committee has developed a Conflict of Interest Policy
-that all Sector Caucus members are expected to comply with. For example,
-if members participate in scoping and conceptual approaches to research,
-they could be precluded from bidding on work or precluded in playing a
-role in final procurements and selection processes. RWSC Staff, Steering
-Committee members, and Subcommittee members are all subject to the same
-policy.
+The RWSC Steering Committee has developed a [Conflict of Interest
+Policy](https://rwscollab.github.io/coi-policy/) that all Sector Caucus
+members are expected to comply with. For example, if members participate
+in scoping and conceptual approaches to research, they could be
+precluded from bidding on work or precluded in playing a role in final
+procurements and selection processes. RWSC Staff, Steering Committee
+members, and Subcommittee members are all subject to the same policy.
 
 ### Offshore Wind Industry Caucus Framework {#industry}
 
@@ -493,25 +495,26 @@ and it was designed to be flexible in the first year of RWSC operations.
 The Caucus will reevaluate this model at least annually and more
 frequently as needed.  
 
-+---------------------------------+---------------------------------+
-| **Caucus Membership:**          | Open to offshore wind industry  |
-|                                 | with US Atlantic coast          |
-|                                 | interests\*                     |
-+---------------------------------+---------------------------------+
-| **Caucus Voting:**              | Open to Caucus Members          |
-+---------------------------------+---------------------------------+
-| **Caucus Leadership - Steering  | Open to Caucus Members          |
-| Committee Eligibility:**        |                                 |
-+---------------------------------+---------------------------------+
-| **Financial Contribution        | Contributions come from each    |
-| Structure (operations budget    | individual entity represented   |
-| only):**                        | in the caucus, regardless of    |
-|                                 | type of affiliation             |
-+---------------------------------+---------------------------------+
-| **Minimum number of             | 11 (at \$20k per entity)        |
-| contributions necessary to fund |                                 |
-| FY2022 operational budget**     | 9 (at \$25k per entity)         |
-+---------------------------------+---------------------------------+
++--------------------------------+--------------------------------+
+| **Caucus Membership:**         | Open to offshore wind industry |
+|                                | with US Atlantic coast         |
+|                                | interests\*                    |
++--------------------------------+--------------------------------+
+| **Caucus Voting:**             | Open to Caucus Members         |
++--------------------------------+--------------------------------+
+| **Caucus Leadership - Steering | Open to Caucus Members         |
+| Committee Eligibility:**       |                                |
++--------------------------------+--------------------------------+
+| **Financial Contribution       | Contributions come from each   |
+| Structure (operations budget   | individual entity represented  |
+| only):**                       | in the caucus, regardless of   |
+|                                | type of affiliation            |
++--------------------------------+--------------------------------+
+| **Minimum number of            | 11 (at \$20k per entity)       |
+| contributions necessary to     |                                |
+| fund FY2022 operational        | 9 (at \$25k per entity)        |
+| budget**                       |                                |
++--------------------------------+--------------------------------+
 
 \**Entities have US Atlantic offshore wind lease interests, the intent
 to obtain a US Atlantic offshore wind lease interest(s)/eligible
@@ -690,13 +693,13 @@ with other Caucuses throughout in 2024. 
 
 ***Conflict of Interest***
 
-The RWSC Steering Committee has developed a Conflict of Interest Policy
-that all Sector Caucus members are expected to comply with. For example,
-if members participate in scoping and conceptual approaches to research,
-they could be precluded from bidding on work or precluded in playing a
-role in final procurements and selection processes. RWSC Staff, Steering
-Committee members, and Subcommittee members are all subject to the same
-policy.
+The RWSC Steering Committee has developed a [Conflict of Interest
+Policy](https://rwscollab.github.io/coi-policy/) that all Sector Caucus
+members are expected to comply with. For example, if members participate
+in scoping and conceptual approaches to research, they could be
+precluded from bidding on work or precluded in playing a role in final
+procurements and selection processes. RWSC Staff, Steering Committee
+members, and Subcommittee members are all subject to the same policy.
 
 ### State Caucus Framework {#state}
 
@@ -838,13 +841,14 @@ RWSC.
     explore elective measures to provide support to the RWSC.
 
 -   **Conflict of Interest.** The RWSC Steering Committee has developed
-    a Conflict of Interest Policy that all Sector Caucus members are
-    expected to comply with. For example, if members participate in
-    scoping and conceptual approaches to research, they could be
-    precluded from bidding on work or precluded in playing a role in
-    final procurements and selection processes. RWSC Staff, Steering
-    Committee members, and Subcommittee members are subject to the same
-    policy.
+    a [Conflict of Interest
+    Policy](https://rwscollab.github.io/coi-policy/) that all Sector
+    Caucus members are expected to comply with. For example, if members
+    participate in scoping and conceptual approaches to research, they
+    could be precluded from bidding on work or precluded in playing a
+    role in final procurements and selection processes. RWSC Staff,
+    Steering Committee members, and Subcommittee members are subject to
+    the same policy.
 
 ***Federal Sector Caucus - Decision-making***
 
@@ -903,13 +907,43 @@ While the number of members may vary over time, the total number of eNGO
 Sector Caucus participants should be managed to facilitate efficient yet
 comprehensive input. Expectations for membership are listed below.
 
+The eNGO Sector Caucus uses a form to collect information from new
+potential members. Contact christian\@rwsc.org to request the form.
+
 **Who.** eNGO Sector Caucus members must be directly affiliated with an
 environmental non-governmental organization that is working to advance
 responsible offshore wind in a manner that protects ocean and coastal
 wildlife and habitats and must support the general mission and
 principles of the RWSC. While anyone in the Caucus may join caucus
 meetings, only one individual from each entity may represent that entity
-in discussions and/or decision-making.  
+in discussions and/or decision-making.
+
+**eNGO Sector Caucus members agree to the following requirements:**
+
+-   Engage, share, learn, and keep up-to-date on RWSC work.
+
+-   Participate in eNGO Sector Caucus meetings, which will be held no
+    less than quarterly, and listserv discussions, and to complete any
+    follow up actions or reviews determined at these meetings.
+
+-   Participate in RWSC events during the year (e.g., State of the
+    Science Workshop).
+
+-   Nominate and vote to select eNGO Sector Caucus members to lead the
+    caucus meetings and serve on the RWSC Steering Committee.
+
+-   Work collaboratively to identify sector opportunities, issues, or
+    concerns that can be raised to the full RWSC Steering Committee via
+    the elected NGO Sector Caucus representatives.
+
+-   Comply with the [RWSC Conflict of Interest
+    Policy](https://rwscollab.github.io/coi-policy/).
+
+All eNGO Sector Caucus members must be a staff member authorized to
+represent the organization they are signing up as a member entity. While
+multiple individuals from each entity may join eNGO Sector Caucus
+meetings, only one individual from each organization may represent that
+entity in discussions and/or decision-making.
 
 **Meeting and Event Participation.** Sector Caucus members should
 participate in the Caucus’ standing meetings, which will be held no less
@@ -920,18 +954,20 @@ envisaged to exceed more than two events annually (events may include a
 State of the Science Workshop or an Annual Forum) 
 
 **Conflict of Interest.** The RWSC Steering Committee has developed a
-Conflict of Interest Policy that Sector Caucus members are expected to
-comply with. For example, if members participate in scoping and
-conceptual approaches to research, they could be precluded from playing
-a role in final procurements and selection processes. The Steering
-Committee has developed a Conflict of Interest policy applicable to all
-members to address this issue.
+[Conflict of Interest Policy](https://rwscollab.github.io/coi-policy/)
+that Sector Caucus members are expected to comply with. For example, if
+members participate in scoping and conceptual approaches to research,
+they could be precluded from playing a role in final procurements and
+selection processes.
 
 ***eNGO Sector Caucus -*** ***Decision-making***
 
 The eNGO Sector Caucus will make consensus-based decisions. On feedback
 and advice on substantive issues, the caucus may report a range of views
-if the sector is not in general agreement. 
+if the sector is not in general agreement. While multiple individuals
+from each entity may join eNGO Sector Caucus meetings, only one
+individual from each organization may represent that entity in
+discussions and/or decision-making.
 
 ***eNGO Sector Caucus - Steering Committee Representation***
 
@@ -1033,9 +1069,9 @@ issue or topic has been identified as a research priority.
 ***Conflicts of Interest.*** If experts participate in scoping and
 conceptual approaches to research, they could be precluded from bidding
 on work or precluded in playing a role in final procurements and
-selection processes. The Steering Committee has developed a Conflict of
-Interest policy which will apply to all Subcommittees to address this
-issue.
+selection processes. The Steering Committee has developed a [Conflict of
+Interest Policy](https://rwscollab.github.io/coi-policy/) which will
+apply to all Subcommittees to address this issue.
 
 ## 5. Director, Other Staff, and Partners {#staff}
 
