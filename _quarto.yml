@@ -4,8 +4,8 @@ project:
 website:
   page-navigation: true
   title: "Governance Structure"
-  site-url: "https://rwscollab.github.io/pam-data-mgmt/"
-  repo-url: https://github.com/RWSCollab/pam-data-mgmt
+  site-url: "https://rwscollab.github.io/governance-structure/"
+  repo-url: https://github.com/RWSCollab/governance-structure
   back-to-top-navigation: true
 
   navbar:

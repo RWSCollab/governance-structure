@@ -855,7 +855,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/rwscollab\.github\.io\/pam-data-mgmt\/");
+      var filterRegex = new RegExp("https:\/\/rwscollab\.github\.io\/governance-structure\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
