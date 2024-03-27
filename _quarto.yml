@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  page-navigation: true
+  reader-mode: false
+
   title: "Governance Structure"
   site-url: "https://rwscollab.github.io/governance-structure/"
   repo-url: https://github.com/RWSCollab/governance-structure
@@ -17,8 +18,8 @@ website:
     search: true
     title: RWSC Governance Structure
     logo: "/images/logo7.png"
-    pinned: true
-    align: "center"
+#    pinned: true
+#    align: "center"
     collapse-level: 2
     contents:
      - href: index.qmd#welcome
