@@ -1,5 +1,5 @@
 ---
-title: "RWSC Governance Structure"
+title: "Governance Structure"
 date: 2024-03-01
 date-format: short
 author: RWSC Steering Committee
