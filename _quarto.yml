@@ -14,7 +14,6 @@ website:
     logo: "/images/RWSC_Logo_notext.png"
 
   sidebar:
-    title: "Governance Structure"
     style: "docked"
     search: true
     logo: "/images/logo7.png"
