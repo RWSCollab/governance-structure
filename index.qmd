@@ -97,17 +97,17 @@ Protected Fish Species, and Technology).
 After approximately two years of collaboration and discussions with the
 research community, RWSC released the first [Integrated Science Plan for
 Offshore Wind, Wildlife, and Habitat in U.S. Atlantic
-Waters](http://rwsc.org/science-plan) (“Science Plan”). The Science Plan
-aggregates research and data needs from across the sectors, and
-recommends data repositories and practices for data management that are
-specific to each type of research or data. In addition, the Science Plan
-describes a framework for collaboration among the sectors to support
-regional offshore wind and wildlife research and implement the
-recommendations in the Science Plan. One of the recommendations in the
-Science Plan is to convene a new Data Governance Subcommittee that will
-develop RWSC-wide policies for data management and sharing. With support
-from RWSC staff, the Steering Committee is convening this new
-Subcommittee in early 2024.
+Waters](http://rwsc.org/science-plan) (“Science Plan”) in January 2024.
+The Science Plan aggregates research and data needs from across the
+sectors, and recommends data repositories and practices for data
+management that are specific to each type of research or data. In
+addition, the Science Plan describes a framework for collaboration among
+the sectors to support regional offshore wind and wildlife research and
+implement the recommendations in the Science Plan. One of the
+recommendations in the Science Plan is to convene a new Data Governance
+Subcommittee that will develop RWSC-wide policies for data management
+and sharing. With support from RWSC staff, the Steering Committee is
+convening this new Subcommittee in early 2024.
 
 The Science Plan, including the framework for collaboration, and this
 Governance Structure, will continue to be used to guide the work of the
@@ -118,7 +118,7 @@ RWSC.
 This document is organized by the organizational components listed below
 and shown in the RWSC org chart.
 
-![](images/RWSC_Org_Chart.png){fig-align="left"}
+![](images/RWSC_org_chart_2024.png){fig-align="center"}
 
 1.  [Framework for Collaboration](index.qmd#framework) - A framework
     that describes the actions that the sectors can take to implement
@@ -157,8 +157,6 @@ and shown in the RWSC org chart.
     convened as needed. This section contains the generic Subcommittee
     Terms of Reference. RWSC staff also maintain a specific Terms
     document for each Subcommittee (referenced within).
-
-<!-- -->
 
 5.  [Director, Other Staff, and Partners](index.qmd#staff) **–** Staff
     employed by RWSC with appropriate skills and competencies. The
@@ -494,25 +492,25 @@ and it was designed to be flexible in the first year of RWSC operations.
 The Caucus will reevaluate this model at least annually and more
 frequently as needed.  
 
-+----------------------------------+----------------------------------+
-| **Caucus Membership:**           | Open to offshore wind industry   |
-|                                  | with US Atlantic coast           |
-|                                  | interests\*                      |
-+----------------------------------+----------------------------------+
-| **Caucus Voting:**               | Open to Caucus Members           |
-+----------------------------------+----------------------------------+
-| **Caucus Leadership - Steering   | Open to Caucus Members           |
-| Committee Eligibility:**         |                                  |
-+----------------------------------+----------------------------------+
-| **Financial Contribution         | Contributions come from each     |
-| Structure (operations budget     | individual entity represented in |
-| only):**                         | the caucus, regardless of type   |
-|                                  | of affiliation                   |
-+----------------------------------+----------------------------------+
-| **Minimum number of              | 11 (at \$20k per entity)         |
-| contributions necessary to fund  |                                  |
-| FY2022 operational budget**      | 9 (at \$25k per entity)          |
-+----------------------------------+----------------------------------+
++---------------------------------+---------------------------------+
+| **Caucus Membership:**          | Open to offshore wind industry  |
+|                                 | with US Atlantic coast          |
+|                                 | interests\*                     |
++---------------------------------+---------------------------------+
+| **Caucus Voting:**              | Open to Caucus Members          |
++---------------------------------+---------------------------------+
+| **Caucus Leadership - Steering  | Open to Caucus Members          |
+| Committee Eligibility:**        |                                 |
++---------------------------------+---------------------------------+
+| **Financial Contribution        | Contributions come from each    |
+| Structure (operations budget    | individual entity represented   |
+| only):**                        | in the caucus, regardless of    |
+|                                 | type of affiliation             |
++---------------------------------+---------------------------------+
+| **Minimum number of             | 11 (at \$20k per entity)        |
+| contributions necessary to fund |                                 |
+| FY2022 operational budget**     | 9 (at \$25k per entity)         |
++---------------------------------+---------------------------------+
 
 \**Entities have US Atlantic offshore wind lease interests, the intent
 to obtain a US Atlantic offshore wind lease interest(s)/eligible
@@ -1146,8 +1144,10 @@ functions of the Research Fund, including developing and executing
 agreements with funders, holding and potentially pooling large sums of
 funding from multiple sources, and developing, executing, and managing
 contractual agreements with multiple types of entities to conduct
-research. In July 2023, the Steering Committee selected the Center for
-Ocean Leadership (COL) to serve as a partner and provide the
+research. In July 2023, the Steering Committee developed a [Memorandum
+of
+Understanding](https://rwsc.org/wp-content/uploads/2023/10/RWSC-UCAR-COL-20230721-MOU-Fully-Executed.pdf)
+(MOU) with the Center for Ocean Leadership (COL) to collaborate on the
 administrative, fiscal, and program management functions needed to
 implement the RWSC Offshore Wind and Wildlife Research Fund on a
 case-by-case basis.
@@ -1159,10 +1159,11 @@ coordinator for ocean science, working with more than 85 affiliated
 institutions and federal agencies across the government. Center for
 Ocean Leadership-affiliated institutions span the academic, industry,
 and nonprofit sectors engaged in ocean science, technology development,
-and public education. The roles and responsibilities of RWSC and
-UCAR/COL in implementing the Research Fund are detailed in a [Memorandum
-of
-Understanding](https://rwsc.org/wp-content/uploads/2023/10/RWSC-UCAR-COL-20230721-MOU-Fully-Executed.pdf).
+and public education.
+
+The roles and responsibilities of RWSC and UCAR/COL in implementing the
+Research Fund are detailed in the
+[MOU](https://rwsc.org/wp-content/uploads/2023/10/RWSC-UCAR-COL-20230721-MOU-Fully-Executed.pdf).
 Briefly:
 
 -   RWSC will serve in a technical, programmatic oversight, and
@@ -1170,7 +1171,8 @@ Briefly:
     acceptance of funds, and selecting projects for funding with the
     purpose of implementing the RWSC Science Plan.
 
--   COL/UCAR will accept funds approved by the Steering Committee from
-    third party funder(s) in support of the Science Plan. UCAR will
-    develop and execute agreements to achieve RWSC and funder outcomes
-    and manage related activities.
+-   COL/UCAR may accept funds approved by the Steering Committee from
+    third party funder(s) in support of the Science Plan. At the
+    direction of the Steering Committee, UCAR may develop and execute
+    agreements to achieve RWSC and funder outcomes and manage related
+    activities.
