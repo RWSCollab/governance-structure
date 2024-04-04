@@ -12,13 +12,13 @@ editor:
 ## Welcome {#welcome .unnumbered}
 
 This document articulates a governance structure for the [Regional
-Wildlife Science Collaborative for Offshore Wind](rwsc.org) (RWSC) as a
-collaborative entity among four sectors – federal agencies, state
-agencies, environmental non-governmental organizations, and offshore
-wind companies. The structure and processes described in this document
-are meant to provide consistency in participation in RWSC where possible
-across sectors while also allowing necessary flexibility for each
-sector. This document and all of its sections will be reviewed and
+Wildlife Science Collaborative for Offshore Wind](https://rwsc.org/)
+(RWSC) as a collaborative entity among four sectors – federal agencies,
+state agencies, environmental non-governmental organizations, and
+offshore wind companies. The structure and processes described in this
+document are meant to provide consistency in participation in RWSC where
+possible across sectors while also allowing necessary flexibility for
+each sector. This document and all of its sections will be reviewed and
 re-adopted annually by the Steering Committee.
 
 ------------------------------------------------------------------------
@@ -107,8 +107,8 @@ the sectors to support regional offshore wind and wildlife research and
 implement the recommendations in the Science Plan. One of the
 recommendations in the Science Plan is to convene a new Data Governance
 Subcommittee that will develop RWSC-wide policies for data management
-and sharing. With support from RWSC staff, the Steering Committee is
-convening this new Subcommittee in early 2024.
+and sharing. With support from RWSC staff, the Steering Committee has
+convened this new Subcommittee in early 2024.
 
 The Science Plan, including the framework for collaboration, and this
 Governance Structure, will continue to be used to guide the work of the
@@ -173,7 +173,7 @@ and shown in the RWSC org chart.
     provides key functions for RWSC for a reasonable overhead cost.
     Provides infrastructure to execute administrative and financial
     duties to administer operational funds (e.g. RWSC staff contracts
-    management). and research funding (e.g. letting contracts for
+    management) and research funding (e.g. letting contracts for
     specific services, and aggregating funding for research, as needed).
 
 7.  [RWSC Offshore Wind & Wildlife Research Fund Fiscal
@@ -495,26 +495,27 @@ and it was designed to be flexible in the first year of RWSC operations.
 The Caucus will reevaluate this model at least annually and more
 frequently as needed.  
 
-+--------------------------------+--------------------------------+
-| **Caucus Membership:**         | Open to offshore wind industry |
-|                                | with US Atlantic coast         |
-|                                | interests\*                    |
-+--------------------------------+--------------------------------+
-| **Caucus Voting:**             | Open to Caucus Members         |
-+--------------------------------+--------------------------------+
-| **Caucus Leadership - Steering | Open to Caucus Members         |
-| Committee Eligibility:**       |                                |
-+--------------------------------+--------------------------------+
-| **Financial Contribution       | Contributions come from each   |
-| Structure (operations budget   | individual entity represented  |
-| only):**                       | in the caucus, regardless of   |
-|                                | type of affiliation            |
-+--------------------------------+--------------------------------+
-| **Minimum number of            | 11 (at \$20k per entity)       |
-| contributions necessary to     |                                |
-| fund FY2022 operational        | 9 (at \$25k per entity)        |
-| budget**                       |                                |
-+--------------------------------+--------------------------------+
++-------------------------------+-------------------------------+
+| **Caucus Membership:**        | Open to offshore wind         |
+|                               | industry with US Atlantic     |
+|                               | coast interests\*             |
++-------------------------------+-------------------------------+
+| **Caucus Voting:**            | Open to Caucus Members        |
++-------------------------------+-------------------------------+
+| **Caucus Leadership -         | Open to Caucus Members        |
+| Steering Committee            |                               |
+| Eligibility:**                |                               |
++-------------------------------+-------------------------------+
+| **Financial Contribution      | Contributions come from each  |
+| Structure (operations budget  | individual entity represented |
+| only):**                      | in the caucus, regardless of  |
+|                               | type of affiliation           |
++-------------------------------+-------------------------------+
+| **Minimum number of           | 11 (at \$20k per entity)      |
+| contributions necessary to    |                               |
+| fund FY2022 operational       | 9 (at \$25k per entity)       |
+| budget**                      |                               |
++-------------------------------+-------------------------------+
 
 \**Entities have US Atlantic offshore wind lease interests, the intent
 to obtain a US Atlantic offshore wind lease interest(s)/eligible
@@ -607,9 +608,9 @@ Eligibility***
 
 Caucus Members are eligible for roles as Caucus leads and to represent
 the Caucus on the Steering Committee. The Caucus will select Members to
-represent the Caucus on the Steering Committee for a term of two years.
-One Steering Committee position will rotate each year, so that terms are
-staggered.
+represent the Caucus on the Steering Committee for a term of three
+years. One Steering Committee position will rotate each other year, so
+that terms are staggered.
 
 -   Three primary Caucus leads/Steering Committee members must be
     selected by Caucus Members. Each selected Caucus lead/Steering
@@ -807,7 +808,7 @@ developing a contribution model.
 ***State Sector Caucus - Financial Contribution to Research Funds***
 
 As of March 2022, a Research Budget has not been developed. Following
-the finalization of and RWSC Science Plan, staff and the Steering
+the finalization of the RWSC Science Plan, staff and the Steering
 Committee will seek input on funding priorities and project management
 costs to develop a Research Budget. The Caucus will reevaluate
 Membership and contribution criteria and expectations at this time. 
