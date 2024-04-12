@@ -68,7 +68,7 @@ fisheries and other topics of commercial interest.
 ### Shared Values {.unnumbered}
 
 Collaboration 🐋 Accountability 🐧 Credibility 🐢 Accessibility 🦇
-Communication 🐙 Transparency Relevance 🌊 Quality 🦀 Efficiency
+Communication 🐙 Transparency 🪸Relevance 🌊 Quality 🦀 Efficiency
 
 ## History & Background {#history}
 
@@ -187,7 +187,7 @@ and shown in the RWSC org chart.
 8.  [Conflict of Interest
     Policy](https://rwscollab.github.io/coi-policy/)
 
-9.  Harassment Policy
+9.  [Harassment Policy](https://rwscollab.github.io/harassment-policy/)
 
 ## 1. Framework for Collaboration {#framework}
 
@@ -327,7 +327,7 @@ which will begin immediately upon acceptance of this Governance
 Structure by the Interim Steering Committee. Each Sector Caucus has
 defined processes and considerations for selecting and maintaining their
 leadership (see [Sector Caucus Frameworks](index.qmd#sectors)), with
-support and assistance from RWSC staff.  Should an individual Steering
+support and assistance from RWSC staff. Should an individual Steering
 Committee member exit the Committee before their term ends, the Sector
 Caucus will appoint a replacement representative to fill the remainder
 of that term.
@@ -495,27 +495,28 @@ and it was designed to be flexible in the first year of RWSC operations.
 The Caucus will reevaluate this model at least annually and more
 frequently as needed.  
 
-+-------------------------------+-------------------------------+
-| **Caucus Membership:**        | Open to offshore wind         |
-|                               | industry with US Atlantic     |
-|                               | coast interests\*             |
-+-------------------------------+-------------------------------+
-| **Caucus Voting:**            | Open to Caucus Members        |
-+-------------------------------+-------------------------------+
-| **Caucus Leadership -         | Open to Caucus Members        |
-| Steering Committee            |                               |
-| Eligibility:**                |                               |
-+-------------------------------+-------------------------------+
-| **Financial Contribution      | Contributions come from each  |
-| Structure (operations budget  | individual entity represented |
-| only):**                      | in the caucus, regardless of  |
-|                               | type of affiliation           |
-+-------------------------------+-------------------------------+
-| **Minimum number of           | 11 (at \$20k per entity)      |
-| contributions necessary to    |                               |
-| fund FY2022 operational       | 9 (at \$25k per entity)       |
-| budget**                      |                               |
-+-------------------------------+-------------------------------+
++------------------------------+------------------------------+
+| **Caucus Membership:**       | Open to offshore wind        |
+|                              | industry with US Atlantic    |
+|                              | coast interests\*            |
++------------------------------+------------------------------+
+| **Caucus Voting:**           | Open to Caucus Members       |
++------------------------------+------------------------------+
+| **Caucus Leadership -        | Open to Caucus Members       |
+| Steering Committee           |                              |
+| Eligibility:**               |                              |
++------------------------------+------------------------------+
+| **Financial Contribution     | Contributions come from each |
+| Structure (operations budget | individual entity            |
+| only):**                     | represented in the caucus,   |
+|                              | regardless of type of        |
+|                              | affiliation                  |
++------------------------------+------------------------------+
+| **Minimum number of          | 11 (at \$20k per entity)     |
+| contributions necessary to   |                              |
+| fund FY2022 operational      | 9 (at \$25k per entity)      |
+| budget**                     |                              |
++------------------------------+------------------------------+
 
 \**Entities have US Atlantic offshore wind lease interests, the intent
 to obtain a US Atlantic offshore wind lease interest(s)/eligible
